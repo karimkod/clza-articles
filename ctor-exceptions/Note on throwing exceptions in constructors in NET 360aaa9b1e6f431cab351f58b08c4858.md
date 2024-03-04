@@ -4,8 +4,6 @@ Tags: .NET
 Publication Date: April 9, 2024
 Status: In progress
 
-[French version](https://www.notion.so/French-version-7a33049e12634fea9790876d4f2bd22c?pvs=21)
-
 In this article, we will take a look into some details of throwing exceptions in the constructor of reference types in .NET, we will analyze it from the memory management point of view and also from code maintainability perspective.
 
 You can find all the code written for this article in this GitHub repo. 
